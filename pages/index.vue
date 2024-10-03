@@ -4,7 +4,7 @@
     <FormLoginPrimary />
   </div>
   <div>
-    <h1>Utilizando onSubmit</h1>
+    <h1>Utilizando outra Forma</h1>
     <FormLoginSecond />
   </div>
 </template>
